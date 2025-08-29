@@ -1,7 +1,7 @@
 # Recruitment Platform Conversion Analysis - 신규 가입자 초기 행동 기반 전환 세그먼트 분석
-![Image](https://github.com/user-attachments/assets/8dd0ee61-71cf-4256-abba-84d85780ea2f)
-![Image](https://github.com/user-attachments/assets/c96f12bb-473a-40cb-954c-f2be969e2d85)
-![Image](https://github.com/user-attachments/assets/c0f0acf4-ee5a-4b2a-9530-227340c5166f)
+![Image](https://instinctive-milk-d9b.notion.site/image/attachment%3Abc029848-56c5-4cd4-8a4f-d15ec343d80e%3A%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_2.jpg?table=block&id=23f9d974-08e6-80a8-95f3-d9a18476ed7e&spaceId=f80357d3-0f5e-4223-be11-6f5365fc1458&width=1790&userId=&cache=v2)
+![Image](https://instinctive-milk-d9b.notion.site/image/attachment%3A02c24120-a7ef-49b8-b2c7-62275fe8d130%3A%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_3.jpg?table=block&id=23f9d974-08e6-8027-8d73-fd0ad143c3c4&spaceId=f80357d3-0f5e-4223-be11-6f5365fc1458&width=1790&userId=&cache=v2)
+![Image](https://instinctive-milk-d9b.notion.site/image/attachment%3A6b205895-2ad5-4598-b39a-7d39bff9d39c%3A%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_4.jpg?table=block&id=23f9d974-08e6-80d7-bd65-dd83703c5b7e&spaceId=f80357d3-0f5e-4223-be11-6f5365fc1458&width=1790&userId=&cache=v2)
 
 ---
 

@@ -35,7 +35,7 @@ Using the **AARRR framework**, **predictive modeling** (Random Forest, Logistic 
   
 ---
 
-## What's inside:
+## What's inside
 - 분석 통합 파일 (Main Notebook): [`recruitment-platform-conversion-analysis.ipynb`](./recruitment-platform-conversion-analysis.ipynb)
 - 프로젝트 보고서 파일 (Full Write-up): [`/reports/summary.md`](./reports/summary.md)
 - 데이터 설명 (Data Dictionary): [`data/data_dictionary.md`](./data/data_dictionary.md)

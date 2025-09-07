@@ -10,6 +10,8 @@
 - 최근 가입 유저일수록 **리텐션**이 높고, 전환 유저는 활동성·방문 리텐션·LTV가 더 높음  
 - 초기 전환 예측 주요 변수: **평균 체류 시간**과 **총 페이지뷰 수**  
 - 초기 행동 기반 5개 세그먼트: 빠르고 목표지향적(전환 100%) ↔ 낮은 활동성(전환 23%)
+  
+**TL; DR (English)**
 
 - New user sign-ups are declining, making **conversion efficiency** more critical.  
 - More recent sign-ups show higher retention, and converted users have stronger **activity, visit retention, and LTV**.  
@@ -20,6 +22,8 @@
 ## Project Overview
 본 프로젝트는 채용 플랫폼 **신규 가입자의 초기 행동 데이터**를 기반으로 전환 효율성을 높이기 위한 요인을 탐색했습니다.  
 **AARRR 프레임워크**, **예측 모델링**, **행동 기반 세그먼트 분석**을 통해 주요 지표(체류 시간, 페이지뷰)를 도출하고, 세그먼트별 맞춤 전략을 제안했습니다.
+
+**Project Overview (English)**
 
 This project analyzes **early user behavior** on a recruitment platform to improve conversion efficiency.  
 Using the **AARRR framework**, **predictive modeling** (Random Forest, Logistic Regression), and **behavior-based segmentation**, we identified key predictors (session time, pageviews) and derived tailored strategies by segment.
@@ -80,7 +84,7 @@ jupyter lab
 - 파일을 열고 위에서부터 차례대로 실행합니다.
 - Execute all cells (top → bottom)
 
-### ⚠️ 주의
+### ⚠️ Caution
 - 코드와 분석 로직은 동일하게 실행할 수 있지만, 데이터가 없으므로 결과(숫자·그래프)는 재현되지 않습니다.
 - Without the dataset, all analysis steps can be executed, but outputs (figures and numbers) cannot be reproduced.
 
@@ -89,6 +93,9 @@ jupyter lab
 ## Data & Ethics
 - 실제 데이터는 공유 불가 (보안 및 비밀유지 조항).
 - 분석 과정, 코드, 변수 정의, 결과물만 공개.
+  
+**Data & Ethics (English)**
+  
 - The original dataset cannot be shared due to security and confidentiality agreements.  
 - Only the analysis process, code, variable definitions, and results are publicly available.
 
@@ -114,6 +121,8 @@ jupyter lab
 
 - **세그먼트 5 – 낮은 활동성 (1,475명, 전환률 0.23)**  
   → 온보딩 미션 게임화·작은 성공 경험 설계로 초기 활동성 향상
+
+**Insights / Conclusions (English)**
 
 1. **Crisis**: New user sign-ups are declining, making the improvement of conversion efficiency (within one month) a critical challenge.
 
